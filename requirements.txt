@@ -1,0 +1,5 @@
+requests
+pandas
+pyspark
+boto3  # pour interagir avec AWS S3
+python-dotenv
